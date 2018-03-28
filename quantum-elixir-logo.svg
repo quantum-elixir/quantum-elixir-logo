@@ -4,7 +4,9 @@
   <title>quantum-elixir logo</title>
   <desc>Logo of quantum-elixir, a cron-like job scheduler for elixir</desc>
   <circle cx="50" cy="50" r="40" fill="white" stroke="black" stroke-width="8px" />
+  <ellipse transform="rotate(-45)" cx="0" cy="70" rx="30" ry="10" fill="none" stroke="black" stroke-width="1" />
+  <ellipse transform="rotate(45)" cx="70" cy="0" rx="30" ry="10" fill="none" stroke="black" stroke-width="1" />
   <circle cx="50" cy="50" r="4" />
-  <line x1="50" y1="50" x2="75" y2="30" stroke="black" stroke-width="4px" />
+  <line x1="50" y1="50" x2="66" y2="33" stroke="black" stroke-width="4px" />
   <line x1="50" y1="50" x2="90" y2="90" stroke="black" stroke-width="8px" />
 </svg>
